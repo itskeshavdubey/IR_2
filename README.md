@@ -17,12 +17,12 @@ This Python code implements a **Vector Space Model (VSM)** for ranked retrieval 
 [Watch the Video](./Output%20Video.mp4)
 
 <video width="600" controls>
-  <source src="Output%20Video.mp4" type="video/mp4">
+  <source src="./Output%20Video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 
-![Output](/Output%20Photo.png)
+![Output](./Output%20Photo.png)
 
 ---
 
