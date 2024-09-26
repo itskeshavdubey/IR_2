@@ -6,7 +6,6 @@
 - **Assignment**: Assignment 2 - Vector Space Model (VSM)
 - **Group Members**:
   - Keshav Dubey - Roll No: 2110110687
-  - Utkarsh Tiwari - Roll No: 2110110xxx
 - **Submission Date**: September 24, 2024
 
 ---
@@ -179,6 +178,5 @@ if __name__ == "__main__":
 ---
 
 ### **Group Members**:  
-- Keshav Dubey  
-- Utkarsh Tiwari
+- Keshav Dubey (2110110687)
 
